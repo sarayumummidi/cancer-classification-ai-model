@@ -42,8 +42,8 @@ To run this project locally:
 
 1. **Clone the repo**:
     ```bash
-    git clone https://github.com/yourusername/cancer-classification.git
-    cd cancer-classification
+    git clone https://github.com/sarayumummidi/cancer-classification-ai-model.git
+    cd cancer-classification-ai-model
     ```
 
 2. **(Optional) Create a virtual environment and activate it**:
@@ -54,7 +54,7 @@ To run this project locally:
 
 3. **Install dependencies**:
     ```bash
-    pip install -r requirements.txt
+    pip install scikit-learn matplotlib pandas numpy tensorflow
     ```
 
 4. **Launch Jupyter**:
